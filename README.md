@@ -1,7 +1,12 @@
-# [CC3301] Programación de Software de Sistemas
-Different assignments using C.
+# CC3301 - Programación de Software de Sistemas
 
-## Assignments
+Repositorio del curso CC3301 con tareas en C y documentación asociada.
+
+## Categoría
+
+- Licenciatura en Ciencias de la Ingeniería, Mención Computación
+
+## Contenido
 
 - [Tarea 1](Tareas/T1): Operaciones con bits
 - [Tarea 2](Tareas/T2): Strings
